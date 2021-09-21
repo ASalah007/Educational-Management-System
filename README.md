@@ -17,7 +17,8 @@
 <kbd> <img src="assets/Picture1.png" /> </kbd>
 ### Step2
 <kbd> <img src="assets/Picture2.png" /> </kbd>
-###  &nbsp;&nbsp;&nbsp;
+------------------------------------------------------------
+&nbsp;&nbsp;&nbsp;
 
 <kbd> <img src="assets/Picture3.png" /> </kbd>
 ###  
