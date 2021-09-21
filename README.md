@@ -13,7 +13,7 @@
 
 
 ## Project Hierarchy 
-<img src="assets/Picture1.png" style = "margin: 10px"/> 
+<img src="assets/Picture1.png" style = "margin-left: 100px"/> 
 
 ![Picture 2](assets/Picture2.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
