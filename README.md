@@ -13,7 +13,7 @@
 
 
 ## Project Hierarchy 
-!<kbd> <img src="assets/Picture1.png" /> </kbd>
+<img src="assets/Picture1.png" style = "margin: 10px"/> 
 
 ![Picture 2](assets/Picture2.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
