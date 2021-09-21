@@ -13,7 +13,7 @@
 
 
 ## Project Hierarchy 
-<kbd> <img src="assets/Picture1.png" /> </kbd>
+<kbd style = "margin: 100px"> <img src="assets/Picture1.png" /> </kbd>
 <kbd> <img src="assets/Picture2.png" /> </kbd>
 <kbd> <img src="assets/Picture3.png" /> </kbd>
 <kbd> <img src="assets/Picture4.png" /> </kbd>
