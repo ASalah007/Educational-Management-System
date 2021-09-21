@@ -13,15 +13,11 @@
 
 
 ## Project Hierarchy 
-<img src="assets/Picture1.png" style = "margin-left: 100px"/> 
-
-![Picture 2](assets/Picture2.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-![Picture 3](assets/Picture3.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-![Picture 4](assets/Picture4.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-![Picture 5](assets/Picture5.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<kbd> <img src="assets/Picture1.png" /> </kbd>
+<kbd> <img src="assets/Picture2.png" /> </kbd>
+<kbd> <img src="assets/Picture3.png" /> </kbd>
+<kbd> <img src="assets/Picture4.png" /> </kbd>
+<kbd> <img src="assets/Picture5.png" /> </kbd>
 
 ## UML Diagram
 
