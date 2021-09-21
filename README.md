@@ -13,7 +13,7 @@
 
 
 ## Project Hierarchy 
-![Picture 1](assets/Picture1.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+!<kbd> <img src="assets/Picture1.png" /> </kbd>
 
 ![Picture 2](assets/Picture2.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
