@@ -4,7 +4,6 @@
 ## Content: 
 - Demo Videos
 - Project hirarchy
-- UML Diagram
 - Compilation
 
 
@@ -64,10 +63,6 @@ https://user-images.githubusercontent.com/70268434/134229514-5a34dbcb-2f55-42e5-
 &nbsp;&nbsp;&nbsp;
 ------------------------------------------------------------
 &nbsp;&nbsp;&nbsp;
-
-
-## UML Diagram
-
 
 ## Compilation
 
