@@ -1,5 +1,5 @@
 # Educational Management System
- 
+ EMS is a concole application that simulates the relation between Students, TAs and Doctors
 
 ## Content: 
 - Demo Videos
